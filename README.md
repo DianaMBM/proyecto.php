@@ -7,7 +7,7 @@
 - ### Datos del autor
 
 ## Descripcion 
-Se imprime en la pantalla un Hola mundo con el nombre del alumno y una imagen hecha en una pagina web que utiliza la IA para hacerlas. 
+Se imprime en la pantalla un hola mundo con el nombre del alumno y una imagen hecha en una pagina web que utiliza la IA para hacerlas. 
 
 ## Prerequisitos
  1. Tener instalado Visual Studio Code
