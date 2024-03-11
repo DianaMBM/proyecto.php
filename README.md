@@ -12,7 +12,7 @@ Se imprime en la pantalla un Hola mundo con el nombre del alumno y una imagen he
 ## Prerequisitos
  1. Tener instalado Visual Studio Code
  2. Tener conocimiento de como se imprime en pantalla un texto con php y como insertar una imagen
- 3. 
+
 
 ## Pasos a seguir
 1. Colocar el codigo para imprimir Hola Mundo y tu nombre.
