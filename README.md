@@ -26,8 +26,7 @@ Se imprime en la pantalla un Hola mundo con el nombre del alumno y una imagen he
 4. Ingresar a tu codigo la linea para insertar la imagen
 ### Ejemplo
 <img src="rosa.jpg" alt="Rosa"> 
-5. Para visualizarlo en internet, se debe de colocar **Localhost/ y agregar el nombre de la carpeta con una diagnonal al final. 
-
+5. Para visualizarlo en internet, se debe de colocar **Localhost/ y agregar el nombre de la carpeta con una diagnonal al final. **
 # Datos del autor
 - **Diana Lorena Platero Rojas**
 - Carne **24002040**
