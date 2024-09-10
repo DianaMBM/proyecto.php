@@ -29,8 +29,4 @@ Se imprime en la pantalla un hola mundo con el nombre del alumno y una imágen h
 <img src="rosa.jpg" alt="Rosa"> 
 5. Para visualizarlo en internet, se debe de colocar localhost/ y agregar el nombre de la carpeta con una diagnonal al final.
 
-# Datos del autor
-- **Diana Lorena Platero Rojas**
-- Carne **24002040**
-- correo diana.platero@galileo.edu
- 
+
